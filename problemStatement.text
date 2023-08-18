@@ -1,0 +1,9 @@
+Problem Statement:
+
+You have been assigned the task of building a random quote generator. The HTML and CSS have been provided, and you need to write the JavaScript code to fetch a random quote from a quotes API and display it on the webpage. 
+
+// TODO: Write JavaScript code here to fetch a random quote from the API and update the HTML accordingly
+
+```
+
+ API Link: You can use the Quotes Free API (https://type.fit/api/quotes) to get random quotes.
